@@ -1,0 +1,22 @@
+img{
+	border: 10px double purple;
+}
+
+h1 {
+	color: purple;
+	background-color: grey;
+	padding:10px;
+}
+
+h3{
+	color:navy;
+}
+
+a{
+	color:magenta;
+}
+
+li{
+	list-style-type:circle;
+	color:magenta;
+}
